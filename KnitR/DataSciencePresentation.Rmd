@@ -28,6 +28,8 @@ Overview of the workflow
 We used cluster on Financial consumer complaint dataset
 What we found:
 
+**1**
+
 #### Banks that have credit/account issues are more likely located in TX
 
 **Cluster:**
@@ -35,10 +37,12 @@ What we found:
 ![](./image/cluster6.jpg)
 
 **Tableau**
+
 we used filter on "Issue" column and select only "Incorrect information on credit report"
 ![](./image/tx.jpg)
 
 
+**2**
 
 #### Banks that have disputable debts are more likely located in CA
 
@@ -47,10 +51,12 @@ we used filter on "Issue" column and select only "Incorrect information on credi
 ![](./image/cluster14.jpg)
 
 **Tableau**
+
 we used filter on "Issue" column and select only "Con't attempts collect debt not owed"
 ![](./image/CA_cd.jpg)
 
 
+**3**
 
 #### Banks that have communication issues are more likely located in CA
 
@@ -59,6 +65,7 @@ we used filter on "Issue" column and select only "Con't attempts collect debt no
 ![](./image/cluster16.jpg)
 
 **Tableau**
+
 we used filter on "Sub issue" column and select only "Not given enough info to verify debt"
 ![](./image/CA_vd.jpg)
 
