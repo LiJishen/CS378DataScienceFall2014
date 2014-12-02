@@ -23,6 +23,7 @@ It turns out we were wrong after using the crime rate on zip code level
 After the failure of the first try, we decide to change our dataset, then we chose the Financial Consumer Complaint dataset.
 
 Overview of the workflow
+
 ![](./image/workflow.png)
 
 We used cluster on Financial consumer complaint dataset
