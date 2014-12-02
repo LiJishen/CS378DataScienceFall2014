@@ -31,6 +31,7 @@ What we found:
 1. Banks that have credit/account issues are more likely located in TX
 
 **Cluster:**
+
 ![](./image/cluster6.jpg)
 
 **Tableau**
@@ -40,6 +41,7 @@ we used filter on "Issue" column and select only "Incorrect information on credi
 2. Banks that have disputable debts are more likely located in CA
 
 **Cluster:**
+
 ![](./image/cluster14.jpg)
 
 **Tableau**
@@ -49,6 +51,7 @@ we used filter on "Issue" column and select only "Con't attempts collect debt no
 3. Banks that have communication issues are more likely located in CA
 
 **Cluster:**
+
 ![](./image/cluster16.jpg)
 
 **Tableau**
@@ -85,3 +88,9 @@ We find some online sources about the race distribution in US
 ![](./image/onlie1.png)
 
 ![](./image/online2.png)
+
+###Another thought
+
+We later thought migration population may have bigger communication problem than races. We searched some onlie source:
+
+![](./image/migration.png)

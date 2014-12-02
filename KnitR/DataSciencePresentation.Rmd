@@ -88,3 +88,9 @@ We find some online sources about the race distribution in US
 ![](./image/onlie1.png)
 
 ![](./image/online2.png)
+
+###Another thought
+
+We later thought migration population may have bigger communication problem than races. We searched some onlie source:
+
+![](./image/migration.png)
